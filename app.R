@@ -17,6 +17,13 @@ runApp()
 
 # library(rsconnect)
 # accounts()
+# 
+# rsconnect::setAccountInfo(name=name_hablab,
+#                           token=token_hablab,
+#                           secret=secret_hablab)
+# accounts()
+# connectUser(account = "hablab",server = "shinyapps.io", quiet = FALSE)
+
 # deployApp(account = "aleksandereiken") Y
 
 
